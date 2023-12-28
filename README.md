@@ -1,4 +1,4 @@
-# Pulse detection from PPG signal
+# Determinazione della frequenza cardiaca da segnale PPg
 Progetto finale per l'esame di Sistemi di Misura Distribuiti  
 
 ## Autori
