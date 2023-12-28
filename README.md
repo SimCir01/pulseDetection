@@ -11,7 +11,7 @@ Progetto finale per l'esame di Sistemi di Misura Distribuiti
 Il progetto, realizzato in linguaggio LabVIEW, è costituito da due applicativi, che svolgono funzione di client e server, e permette di calcolare la frequenza cardiaca a partire da un segnale ottenuto tramite sensore pulsiossimentro.  
 Per informazioni sull'utilizzo degli applicativi consultare il file pdf presente nella cartella DOCUMENT.  
 
-Il progetto può essere utilizzato in modalità DEMO utilizzando l'applicativo server fullSERVER-NotDAQ
+Il progetto può essere utilizzato in modalità DEMO utilizzando l'applicativo server f"CORE/fullSERVER - SegnNotDAQ.vi" e caricando il segnale di test contenuto nella cartella SAVED_SIGNAL.
 
 ## Requisiti software
 * LabVIEW 2023 Q3 o superiore
