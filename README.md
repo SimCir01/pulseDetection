@@ -1,4 +1,4 @@
-# Determinazione della frequenza cardiaca da segnale PPg
+# Determinazione della frequenza cardiaca da segnale PPG
 Progetto finale per l'esame di Sistemi di Misura Distribuiti  
 
 ## Autori
